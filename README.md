@@ -16,6 +16,17 @@ $$ \frac{r_s}{\lambda_c} = 2.0000 $$
 
 This integer ratio is the mathematical signature of Universal Unification.
 
+## License & Citation
+
+### Code
+The UTQG Validation Engine is licensed under the [MIT License](LICENSE).
+
+### Documentation
+The research paper and technical appendix are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+
+**Please cite this work as:**
+[Attia, A. A. E. (2026). Unification of General Relativity and Quantum Mechanics via the 2.0 Informational Ratio.]
+
 ---
 **Authored by Amer Alaa Eldin Attia (ameralaah99@gmail.com)**
 *April 2026*
