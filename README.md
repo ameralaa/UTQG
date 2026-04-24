@@ -24,11 +24,6 @@ The UTQG Validation Engine is licensed under the [MIT License](LICENSE).
 ### Documentation
 The research paper and technical appendix are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
 
-**Please cite this work as:**
-[Attia, A. A. E. (2026). Unification of General Relativity and Quantum Mechanics via the 2.0 Informational Ratio.]
-title:
-version: v1.0.2
-date-released: 2026-04-24
----
+
 **Authored by Amer Alaa Eldin Attia (ameralaah99@gmail.com)**
 *April 2026*
