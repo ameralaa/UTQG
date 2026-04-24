@@ -5,7 +5,7 @@ This folder contains the complete "Full Theory" package for the Unified Theory o
 ## Contents:
 
 1.  **[UTQG_Research_Paper.md](UTQG_Research_Paper.md)**: The primary research paper, including axiomatic foundations, the Informational Field Equation, and the solution to the Dark Sector paradoxes.
-2.  **[UTQG_Technical_Appendix.md](UTQG_Technical_Appendix.md)**: Supplementary visual evidence and empirical validation summaries. Contains the core mathematical logic used in the theory.
+2.  **[UTQG_Technical_Appendix.md](UTQG_Technical_Appendix.md)**: Empirical validation summaries. Contains the core mathematical logic used in the theory.
 3.  **[Validation_Engine.py](Validation_Engine.py)**: The Python-based numerical engine used to validate the theory across 40 hardened scenarios.
 4.  **[Full_Dataset.txt](Full_Dataset.txt)**: The raw output of the 40-scenario hardened suite, proving the universal consistency of the 2.0 Unification Ratio.
 5.  **[Theory_Visuals/](Theory_Visuals/)**: A directory containing high-resolution conceptual and data-driven charts supporting the paper.
@@ -17,5 +17,5 @@ $$ \frac{r_s}{\lambda_c} = 2.0000 $$
 This integer ratio is the mathematical signature of Universal Unification.
 
 ---
-**Authored by the Numba-Llama Research Unit**
+**Authored by Amer Alaa Eldin Attia (ameralaah99@gmail.com)**
 *April 2026*

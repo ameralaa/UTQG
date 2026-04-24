@@ -93,8 +93,8 @@ The Unified Theory of Quantum Gravity proves that the universe is not a collecti
 
 ## 8. Data Availability & Reproducibility
 The data supporting the findings of this study are available in the **Full_Dataset.txt** file. All results reported in the 40-scenario suite are 100% reproducible through the provided mathematical engine (**Validation_Engine.py**). To ensure transparency, the code is hosted at the following public repository: 
-*   **Repository URL:** `[https://github.com/yourusername/UTQG_Validation_Engine]` 
-*   **Digital Object Identifier (DOI):** `[DOI: 10.XXXX/UTQG.2026.04.24]`
+*   **Repository URL:** `[https://github.com/ameralaa/UTQG]` 
+*   **Digital Object Identifier (DOI):** `[https://doi.org/10.5281/zenodo.19719500]`
 
 ---
 
